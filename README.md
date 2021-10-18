@@ -29,4 +29,14 @@ php artisan serve
  - PHP
     - /utc-php
     
+## Ubicacion de los archivos que contienen la logica
+La parte JS es basicamente solo un archivo.
+https://www.screencast.com/t/cRUnJM4XX
+
+La parte PHP y MSQL consta de 2 archivos.
+Toda la logica esta en un controller del lado Backend.
+Toda la logica front(formulario).
+
+https://www.screencast.com/t/Eutqw4UxQxFs
+
 
